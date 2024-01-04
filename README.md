@@ -15,5 +15,5 @@ Download the project and open the Snip2Text.bat file
 ## Tips for more accuracy
 Zoom in the text and then take screenshot, tesseract will recognize text more accurately 
 
-<br>
+
 > Note: some minor bugs are present
