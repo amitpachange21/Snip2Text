@@ -7,12 +7,12 @@ You will need jdk 1.8 or above
 ## How to use
 Download the project and open the ```Snip2Text.bat``` file
 
+## Tips for more accuracy
+**Zoom in the text and then take screenshot**, tesseract will recognize text more accurately 
+
 ## Gif of tool
 ![Screen2TextDemo](https://github.com/amitpachange21/Snip2Text/assets/60122094/49b82b28-1462-4d2e-976f-c7b6405f7320)
 
-
-## Tips for more accuracy
-Zoom in the text and then take screenshot, tesseract will recognize text more accurately 
 
 
 > Note: some minor bugs are present
